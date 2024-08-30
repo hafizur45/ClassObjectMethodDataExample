@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\obj\Debug\net8.0\ClassObjectMethodDataExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\obj\Debug\net8.0\ClassObjectMethodDataExample.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\obj\Debug\net8.0\ClassObjectMethodDataExample.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\obj\Debug\net8.0\ClassObjectMethodDataExample.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\bin\Debug\net8.0\ClassObjectMethodDataExample.exe
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\bin\Debug\net8.0\ClassObjectMethodDataExample.deps.json
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\bin\Debug\net8.0\ClassObjectMethodDataExample.runtimeconfig.json
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\bin\Debug\net8.0\ClassObjectMethodDataExample.dll
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\bin\Debug\net8.0\ClassObjectMethodDataExample.pdb
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\obj\Debug\net8.0\ClassObjectMethodDataExample.dll
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\obj\Debug\net8.0\refint\ClassObjectMethodDataExample.dll
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\obj\Debug\net8.0\ClassObjectMethodDataExample.pdb
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\obj\Debug\net8.0\ClassObjectMethodDataExample.genruntimeconfig.cache
+C:\Users\User\source\repos\ClassObjectMethodDataExample\ClassObjectMethodDataExample\obj\Debug\net8.0\ref\ClassObjectMethodDataExample.dll
